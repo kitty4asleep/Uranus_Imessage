@@ -1,6 +1,6 @@
 <div align="center">
 
-# Uranus iMessage
+# Uranus iMessage。
 
 **让 AI 扮演一个人，用真的 iMessage 和你聊天。**
 
