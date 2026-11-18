@@ -1,11 +1,11 @@
 <div align="center">
 
-# Uranus iMessage。
+# Uranus iMessage
 
 **让 AI 扮演一个人，用真的 iMessage 和你聊天。**
 
 一台自己的机器 + 一条 iMessage 号码 = 一个随时在线的角色。
-所有配置在网页里点，所有数据留在本地。
+所有配置在网页里点，所有数据留在本地！
 
 [仓库](https://github.com/nikonotnicotine/Uranus_Imessage) ·
 [图文教程](https://docs.qq.com/doc/DVnFncG9Tc05kdFZY) ·
